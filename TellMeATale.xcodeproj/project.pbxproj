@@ -22,6 +22,7 @@
 		EF0EF41819C3305200CB84B7 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = EF0EF3F719C3305200CB84B7 /* UIKit.framework */; };
 		EF0EF42019C3305200CB84B7 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = EF0EF41E19C3305200CB84B7 /* InfoPlist.strings */; };
 		EF0EF42219C3305200CB84B7 /* TellMeATaleTests.m in Sources */ = {isa = PBXBuildFile; fileRef = EF0EF42119C3305200CB84B7 /* TellMeATaleTests.m */; };
+		EF0EF42C19C33CA200CB84B7 /* cinderella.jpg in Resources */ = {isa = PBXBuildFile; fileRef = EF0EF42B19C33CA200CB84B7 /* cinderella.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -55,6 +56,7 @@
 		EF0EF41D19C3305200CB84B7 /* TellMeATaleTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TellMeATaleTests-Info.plist"; sourceTree = "<group>"; };
 		EF0EF41F19C3305200CB84B7 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EF0EF42119C3305200CB84B7 /* TellMeATaleTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TellMeATaleTests.m; sourceTree = "<group>"; };
+		EF0EF42B19C33CA200CB84B7 /* cinderella.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = cinderella.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -116,6 +118,7 @@
 			children = (
 				EF0EF40219C3305200CB84B7 /* AppDelegate.h */,
 				EF0EF40319C3305200CB84B7 /* AppDelegate.m */,
+				EF0EF42B19C33CA200CB84B7 /* cinderella.jpg */,
 				EF0EF40519C3305200CB84B7 /* Main_iPhone.storyboard */,
 				EF0EF40819C3305200CB84B7 /* Main_iPad.storyboard */,
 				EF0EF40B19C3305200CB84B7 /* ViewController.h */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				EF0EF40A19C3305200CB84B7 /* Main_iPad.storyboard in Resources */,
+				EF0EF42C19C33CA200CB84B7 /* cinderella.jpg in Resources */,
 				EF0EF40F19C3305200CB84B7 /* Images.xcassets in Resources */,
 				EF0EF40719C3305200CB84B7 /* Main_iPhone.storyboard in Resources */,
 				EF0EF3FE19C3305200CB84B7 /* InfoPlist.strings in Resources */,
